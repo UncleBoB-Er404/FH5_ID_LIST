@@ -1,7 +1,5 @@
 <h1 align="center"> FH5 Series 0-24 Car ID List</h1>
 
-**- Table of contents for series 0-24**
-
 * [Series 0](#series-0)
 * [Series 1 - Welcome to Mexico](#series-1---welcome-to-mexico)
 * [Series 2 - Holiday Special](#series-2---holiday-special)
